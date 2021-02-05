@@ -24,12 +24,50 @@ dependencies:
   flutter:
     sdk: flutter
   provider: ^2.0.1
-  http: ^0.12.0+2
+  qr_code_scanner: any
+  flutter_contact: ^0.6.1
+  permission_handler: ^5.0.1+1
+  local_auth: ^0.6.2+1
+  shared_preferences: ^0.5.8
+  crypton: any
+  hex: any
+  package_info: any
+  adler32: any
+  loading: ^1.0.2
+  #sqflite: any
+  sqflite_sqlcipher: any
+  percent_indicator: "^2.1.6"
+  image_picker: ^0.6.7+8
+  dropdownfield: ^1.0.3
+  qr_flutter: 3.1.0
+  path_provider: 1.1.0
+  esys_flutter_share: ^1.0.2
+  image_gallery_saver: 1.5.0
+  flutter_rounded_date_picker: 1.0.5
+  dropdown_formfield: ^0.1.3
+  url_launcher: ^5.0.3
+  get_it: ^5.0.1
+  path: ^1.7.0
+  visibility_detector: ^0.1.5
+  image_cropper: any
+
 
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.0
+  get: any
+  http: any
+  flutter_material_pickers: ^1.7.4
+  intl: any
+  test: any
+  mockito: any
+
+
+  easy_rich_text: '^0.5.1'
+  #  url_launcher: any
+  geolocator: any
+
 
 dev_dependencies:
   flutter_test:
